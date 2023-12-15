@@ -9,7 +9,5 @@
 - **as well as sb/sth**: 単語やフレーズを直接指定できるよ（as well... は問い合わせ例だよ）。
 - **今後は和訳の代わりにIPAを併記して**: センテンス・クラフタの応答をカスタマイズできるよ。応答の長さを気にしないなら単に「IPAを併記して」でもいいよ。
 
-## ライセンス
-
-
-※Oxford 3000, Oxford 5000, Oxford Phrase List は Oxford University Pressの登録商標です。
+## 特記
+- Oxford 3000, Oxford 5000, Oxford Phrase List は Oxford University Pressの登録商標です。
